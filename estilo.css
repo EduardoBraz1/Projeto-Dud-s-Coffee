@@ -1,0 +1,58 @@
+body {
+	background: #d2d2c1 url(imagens/fundo.jpg);
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+a {
+	color: #E6E4E2;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+h1 {
+	color: #0C0C0C;
+	font-size: 1.2em;
+}
+
+h2 {
+	color: #0C0C0C;
+	font-size: 1.2em;
+}
+
+#principal {
+	width: 900px;
+}
+
+#menu {
+	background-color: #6C4A31;
+	padding: 18px;
+}
+
+#conteudo {
+	background-color: #e8e8d9;
+	padding: 10px;
+}
+
+#rodape {
+	text-align: center;
+}
+
+ #contato{
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.img-capa {
+	padding-left: 250px;
+}
+
+.img-conteudo {
+	border: 10px solid #7A5941;
+}
+
+.img-espaco {
+	border: 10px solid #7A5941;
+}
